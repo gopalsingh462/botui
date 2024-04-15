@@ -1,0 +1,1 @@
+rasa_server_url = 'http://localhost:5005/model/parse'
